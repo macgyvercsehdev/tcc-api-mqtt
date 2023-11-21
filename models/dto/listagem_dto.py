@@ -6,3 +6,4 @@ from fastapi import Query
 class ListagemDTO:
     paginacao_limite: int = Query(10, gt=-1)
     paginacao_pagina: int = Query(1)
+    data: str = Query(None)
