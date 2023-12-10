@@ -8,6 +8,7 @@ PROJECT = {
     'dia_da_semana': 1,
     'consumo_diario': 1,
     'tarifa': 1,
+    'consumo_mensal': 1,
     'vazao_litro_acumulada':1,
     'umidade': 1
 }
