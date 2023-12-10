@@ -7,6 +7,7 @@ PROJECT = {
     'data': {'$dateToString': {'format': '%Y-%m-%dT%H:%M:%S', 'date': '$data'}},
     'dia_da_semana': 1,
     'consumo_diario': 1,
+    'tarifa': 1,
     'vazao_litro_acumulada':1,
     'umidade': 1
 }
